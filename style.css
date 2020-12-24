@@ -22,10 +22,10 @@ button {
     border-radius: 14px;
     background: #fc0;
     box-shadow: 2px 2px rgb(237, 219, 146), 4px 4px #fdfdfd;
-    width: 107px;
+    width: 109px;
     height: 38px;
     font-size: 1.2rem;
-    padding: 0 10px;
+    padding: 0 9px;
 }
 
 .container {
